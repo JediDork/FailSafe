@@ -1,2 +1,2 @@
 # FailSafe
-You dont need to know what this does. Just know that its a failsafe for use in an application :-)
+You dont need to know what this does, its actually more hassle explaining what it does than its worth
